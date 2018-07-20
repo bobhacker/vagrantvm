@@ -1,0 +1,7 @@
+.settings/
+.vagrant/
+.buildpath
+.project
+
+www/drupal/*
+!www/drupal/.gitkeep
